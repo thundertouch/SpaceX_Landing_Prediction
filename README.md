@@ -1,7 +1,8 @@
 # SpaceX_Landing_Prediction
 # Falcon 9 First Stage Landing Prediction Project
 
-[Project Image]([Project Iamge.jpg]
+![Project Image](Project%20Image.jpg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
